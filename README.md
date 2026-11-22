@@ -11,7 +11,7 @@ A 30-day coding challenge to solve LeetCode problems using JavaScript, strengthe
 - JavaScript (ES6+)
 
 ## 📌 Resources
-- [LeetCode]([https://leetcode.com/](https://leetcode.com/studyplan/30-days-of-javascript/))
+- [30 Days of JavaScript - LeetCode](https://leetcode.com/studyplan/30-days-of-javascript/)
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## ⭐ Purpose
